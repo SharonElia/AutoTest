@@ -176,6 +176,7 @@ size=2
 2\Size=@Size(1050 608)
 2\Name=IR Right
 2\VLRight=false
+2\VLRight=false
 2\VLLeft=false
 2\VLDisparity=false
 2\VLPointCloud=false
