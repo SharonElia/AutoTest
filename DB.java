@@ -1,7 +1,6 @@
 package SharonProject.pageObjects;
 //Test 3
 import java.sql.*;
-
 /**
  * Created by SMaymonX054905 on 20/08/2017.
  */
